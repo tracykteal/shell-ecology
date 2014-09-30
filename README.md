@@ -90,7 +90,7 @@ but we won't talk about that here
 
 Alternatively you can go to
 
-    https://github.com/tracykteal/shell-ecology
+    https://github.com/tracykteal/shell-ecology/tree/gh-pages
 
 And click on 'Download Zip' in the bottom right
 
