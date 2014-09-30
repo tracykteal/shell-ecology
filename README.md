@@ -915,7 +915,7 @@ The program 'nano' can be used to write files
 
 Now you have something that looks like
 
-![nano1.png](img/nano1.png)
+![nano1.png](img/nano_biology2.png)
 
 Type in the command
 
@@ -923,7 +923,7 @@ Type in the command
 
 so it looks something like
 
-![nano2.png](img/nano_biology.png)
+![nano2.png](img/nano_biology1.png)
 
 ```
 To save the file and exit. At the bottom of nano, you see the "^X Exit". That
@@ -1086,3 +1086,11 @@ have probably had the same question.
 - Learn by doing. There's no real other way to learn this than by trying it
 out.  Write your next paper in nano, open pdfs from
 the command line, automate something you don't really need to automate or actually do.
+
+---
+
+### And Remember to Think of Your Future Self
+
+![xkcd.png](img/xkcd_future.png)
+
+[xkcd 1421](http://www.xkcd.com/1421/)
